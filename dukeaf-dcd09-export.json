@@ -1,0 +1,751 @@
+{
+  "activities" : {
+    "-LBG9f6P-JiQPlL4_n-A" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 07:30:01 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBGAJdNevB7BUqa5ki0" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 07:32:51 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBGBdhJutkRdJCIdJrr" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 07:38:39 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBGCVxowHGrT69jRXk_" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 07:42:25 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBGCuTy6TGDIByoQw62" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 07:44:10 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHdvkJl_ktmNunMHX2" : {
+      "activity" : "Drink removed with name, Test",
+      "time" : "Sun Apr 29 2018 14:26:13 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHdwC7v8iicEVjgpMU" : {
+      "activity" : "Drink removed with name, Coffee",
+      "time" : "Sun Apr 29 2018 14:26:15 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHdwSBdbcwfbq2cv4q" : {
+      "activity" : "Drink removed with name, Mountain Dew",
+      "time" : "Sun Apr 29 2018 14:26:16 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHdwZ1Ia7r51XDkiwG" : {
+      "activity" : "Drink removed with name, Coffee",
+      "time" : "Sun Apr 29 2018 14:26:17 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHdwmyVwfoiXN__w-f" : {
+      "activity" : "Drink removed with name, Drink",
+      "time" : "Sun Apr 29 2018 14:26:18 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHpkCB3ury5FPwYzEj" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 15:17:51 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHuDoezRlByGEa51WX" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 15:37:25 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHuPejnksNaeGN1EIH" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 15:38:14 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHv0nVbZhUI3VFLYV2" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 15:40:54 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBHwf920na_4WchKZct" : {
+      "activity" : "Drink removed with name, undefined",
+      "time" : "Sun Apr 29 2018 15:48:06 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBI44qhsXlj7MyP0qs2" : {
+      "activity" : "Drink removed with name, Coffee",
+      "time" : "Sun Apr 29 2018 16:24:53 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIIE9aWkVodrMPjM3G" : {
+      "activity" : "Drink removed with name, Coffee",
+      "time" : "Sun Apr 29 2018 17:26:41 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIQiiJYKspkY_dvdjf" : {
+      "activity" : "Drink removed with name, Coffee",
+      "time" : "Sun Apr 29 2018 18:03:47 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIQj9QhaRFgBn5SU38" : {
+      "activity" : "Drink removed with name, asdasd",
+      "time" : "Sun Apr 29 2018 18:03:49 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIUEsejWo05G8Cmh4q" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 18:19:09 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIqmhdOfWcSDvxAEMU" : {
+      "activity" : "Drink removed with name, Large McCafe",
+      "time" : "Sun Apr 29 2018 20:02:01 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIqq4AKwgRuUCme8lX" : {
+      "activity" : "Drink removed with name, Large McCafe",
+      "time" : "Sun Apr 29 2018 20:02:15 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIrfWjWH3gdDNgxxaS" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:05:54 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBItN13fg7TltbmvklM" : {
+      "activity" : "Drink removed with name, Coffee",
+      "time" : "Sun Apr 29 2018 20:13:18 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIyDYnZ04neok8ykJV" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:34:30 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIyORq9F4ooLJORLrF" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:35:15 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIyXfQQIPa0esV-TlF" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:35:53 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIy_1av5BS36ezR-fs" : {
+      "activity" : "Drink removed with name, Coffee",
+      "time" : "Sun Apr 29 2018 20:36:03 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIzAcovKYDk3M3Cc91" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:38:41 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIzGb2jRMuND4MKIKR" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:39:05 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIzQcqkNB6KMD7znoT" : {
+      "activity" : "Drink removed with name, McD",
+      "time" : "Sun Apr 29 2018 20:39:46 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIzXbnroQUdjFTrCCG" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:40:15 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBIzfQjv_taTU36HC-K" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:40:51 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ-OMGW75sLvVCcKHU" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 20:43:59 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJAwTh_usIh9OesfYE" : {
+      "activity" : "Drink removed with name, Large Drip Coffee",
+      "time" : "Sun Apr 29 2018 21:34:26 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJCy7-9Ky7Ir0jH4ui" : {
+      "activity" : "Drink removed with name, McD Turtle Macchiato",
+      "time" : "Sun Apr 29 2018 21:43:17 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJD1TFYjQY3gE22Kuj" : {
+      "activity" : "Drink removed with name, McD Turtle Macchiato",
+      "time" : "Sun Apr 29 2018 21:43:35 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJD7tTME2e3lpGKRve" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 21:44:01 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDr9pWA23Sx-GIeBj" : {
+      "activity" : "Drink removed with name, McD Turtle Macchiato",
+      "time" : "Sun Apr 29 2018 21:47:11 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDsF_yF5XOPx-TyPJ" : {
+      "activity" : "Drink removed with name, McD Iced Turtle Macchiato",
+      "time" : "Sun Apr 29 2018 21:47:15 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDscGK3wHvcndnmLT" : {
+      "activity" : "Drink removed with name, Mcd Iced Mocha",
+      "time" : "Sun Apr 29 2018 21:47:17 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDt0Y4mdgzPKXRU8S" : {
+      "activity" : "Drink removed with name, McD Large Drip Coffee",
+      "time" : "Sun Apr 29 2018 21:47:18 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDtRZVngiV2C8UAS6" : {
+      "activity" : "Drink removed with name, MarketPlace Coffee",
+      "time" : "Sun Apr 29 2018 21:47:20 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDtmIqtHwwBX_EuS6" : {
+      "activity" : "Drink removed with name, Large Drip Coffee",
+      "time" : "Sun Apr 29 2018 21:47:21 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDu97VrA8Xff4Jt5T" : {
+      "activity" : "Drink removed with name, Large Drip Coffee",
+      "time" : "Sun Apr 29 2018 21:47:23 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDuWuNHNkjmaiVGIE" : {
+      "activity" : "Drink removed with name, fsdf",
+      "time" : "Sun Apr 29 2018 21:47:25 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDvzY-NoPb29-FBwp" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 21:47:31 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJDxTAp4-qJleKOIGx" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 21:47:37 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJErk0OFs1QleFoiWP" : {
+      "activity" : "Drink removed with name, qweqwe",
+      "time" : "Sun Apr 29 2018 21:51:35 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJEsvgd356IAXko2Fm" : {
+      "activity" : "Drink removed with name, 4123123",
+      "time" : "Sun Apr 29 2018 21:51:40 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJZmOiH8IcHZjS64yz" : {
+      "activity" : "Drink removed with name, qweqwe",
+      "time" : "Sun Apr 29 2018 23:22:58 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJZmpHsj1nfoPv7ozM" : {
+      "activity" : "Drink removed with name, 4123123",
+      "time" : "Sun Apr 29 2018 23:23:00 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_2ZiKa1JWa9zYZpo" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:24:09 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_7m5dWohayyMPp6q" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:24:30 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_FRHYfNHKNrJ7SHn" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:25:01 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_IpdeEM2bmeeaish" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:25:15 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_PoBaWb8dMJyNXY9" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:25:44 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_Y--ZpSy1eB1_EnI" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:26:17 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_d8yoKrxLXT7tJe5" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:26:42 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_l-EEdyVqMnTVmOy" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:27:15 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJ_puzWZFA8PWbOHYm" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:27:35 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJa8iJaAORiW1d6MLx" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:28:56 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJaI1nN428-eaI5cIW" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:29:34 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJaPJjmaIeqmAImM_M" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:30:04 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJaXvJBIBXMERUoaHj" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:30:39 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJadq2ahK03G5GOvCm" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:31:07 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJaje09fGMvHd017ao" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:31:31 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJakQcN1EkeJRADdLQ" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:31:34 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJb4l1Lbd5Z8BmMJBA" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:33:02 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJb9qAPHluQEEQQ28I" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:33:23 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJbLz5y1x3rmkt0Bwn" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:34:12 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJbRZKHm5p_vl0frCf" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:34:35 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJbWKoqi16ccFWmL-N" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:34:55 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJbiO2DqTF1mNGeOUw" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:35:48 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJbnSjU3dq92NdISSi" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:36:09 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJbxVK5uupBi3HhOFk" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:36:50 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJc5kY9CJN5hiaef5n" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:37:28 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJcDxRfg8J3UYyhg70" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:38:02 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJcK_RlUWxakKe667N" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:38:29 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJcRxUuml5MYmtk3kB" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:38:59 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJcWgSlnX3MKdxSMD9" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:39:18 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJcd358kCQOHFt55p1" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:39:49 GMT-0400 (Eastern Daylight Time)"
+    },
+    "-LBJck9GkzZgdgoB1YAH" : {
+      "activity" : "new drink added with name, undefined",
+      "time" : "Sun Apr 29 2018 23:40:18 GMT-0400 (Eastern Daylight Time)"
+    }
+  },
+  "drinks" : {
+    "-LBJ_2ZfUbSEesxSQhCv" : {
+      "caffeine" : 75,
+      "calories" : 3,
+      "expandInfo" : false,
+      "location" : "Au Bon Pain",
+      "name" : "Large Black Tea",
+      "price" : 4,
+      "reviewScore" : 0,
+      "sugar" : 5
+    },
+    "-LBJ_7m3WxJdwE3fr3FW" : {
+      "caffeine" : 75,
+      "calories" : 10,
+      "expandInfo" : false,
+      "location" : "Au Bon Pain",
+      "name" : "Large Sweet Tea",
+      "price" : 4,
+      "reviewScore" : 0,
+      "sugar" : 25
+    },
+    "-LBJ_FRGPu1ITF6T9nZW" : {
+      "caffeine" : 150,
+      "calories" : 3,
+      "expandInfo" : false,
+      "location" : "Au Bon Pain",
+      "name" : "Large Drip Coffee",
+      "price" : 3,
+      "reviewScore" : 0,
+      "sugar" : 5
+    },
+    "-LBJ_IpcCfKiaqReqPHr" : {
+      "caffeine" : 100,
+      "calories" : 300,
+      "expandInfo" : false,
+      "location" : "Au Bon Pain",
+      "name" : "Large Mocha",
+      "price" : 6,
+      "reviewScore" : 0,
+      "sugar" : 35
+    },
+    "-LBJ_PoArzXwK0-DqtHH" : {
+      "caffeine" : 120,
+      "calories" : 5,
+      "expandInfo" : false,
+      "location" : "Bella Union",
+      "name" : "Bella Un. Drip Coffee",
+      "price" : 2,
+      "reviewScore" : 0,
+      "sugar" : 5
+    },
+    "-LBJ_Xzz8Nja3gmcPaXV" : {
+      "caffeine" : 100,
+      "calories" : 200,
+      "expandInfo" : false,
+      "location" : "Bella Union",
+      "name" : "Large Cappuccino",
+      "price" : 5,
+      "reviewScore" : 0,
+      "sugar" : 25
+    },
+    "-LBJ_d8x8Z7JHpAnMulK" : {
+      "caffeine" : 100,
+      "calories" : 300,
+      "expandInfo" : false,
+      "location" : "Cafe",
+      "name" : "Mocha Frap",
+      "price" : 5,
+      "reviewScore" : 0,
+      "sugar" : 35
+    },
+    "-LBJ_l-CvJO5bL4xv6ra" : {
+      "caffeine" : 120,
+      "calories" : 5,
+      "expandInfo" : false,
+      "location" : "Cafe at Smith Warehouse",
+      "name" : "Classic Drip Coffee",
+      "price" : 3,
+      "reviewScore" : 0,
+      "sugar" : 5
+    },
+    "-LBJ_puxRK-SYQbxhvbW" : {
+      "caffeine" : 50,
+      "calories" : 5,
+      "expandInfo" : false,
+      "location" : "Divinity Cafe",
+      "name" : "English Breakfast Tea",
+      "price" : 1,
+      "reviewScore" : 0,
+      "sugar" : 0
+    },
+    "-LBJa8iIgAgvoBmOKKHU" : {
+      "caffeine" : 111,
+      "calories" : 168,
+      "expandInfo" : false,
+      "location" : "Dolce Vita",
+      "name" : "8 oz. Red Bull",
+      "price" : 4,
+      "reviewScore" : 0,
+      "sugar" : 37
+    },
+    "-LBJaI1lWEFuwYsC2If2" : {
+      "caffeine" : 50,
+      "calories" : 20,
+      "expandInfo" : false,
+      "location" : "Gyotaku",
+      "name" : "Ito En Green Tea",
+      "price" : 6,
+      "reviewScore" : 0,
+      "sugar" : 10
+    },
+    "-LBJaPJiCiZkLjIHLS1M" : {
+      "caffeine" : 150,
+      "calories" : 300,
+      "expandInfo" : false,
+      "location" : "Joe Van Gogh",
+      "name" : "JVG Large Mocha",
+      "price" : 7,
+      "reviewScore" : 0,
+      "sugar" : 30
+    },
+    "-LBJaXvIiGvA0-lgqsmp" : {
+      "caffeine" : 170,
+      "calories" : 80,
+      "expandInfo" : false,
+      "location" : "Joe Van Gogh",
+      "name" : "JVG Espresso",
+      "price" : 4,
+      "reviewScore" : 0,
+      "sugar" : 8
+    },
+    "-LBJadq14lwZzoQJSwTh" : {
+      "caffeine" : 150,
+      "calories" : 5,
+      "expandInfo" : false,
+      "location" : "Twinnie's",
+      "name" : "Large Drip Coffee",
+      "price" : 4,
+      "reviewScore" : 0,
+      "sugar" : 5
+    },
+    "-LBJaje-oOdneixK9Zr9" : {
+      "caffeine" : 130,
+      "calories" : 15,
+      "expandInfo" : false,
+      "location" : "Trinity Cafe",
+      "name" : "Large Drip Coffee",
+      "price" : 4,
+      "reviewScore" : 0,
+      "sugar" : 20
+    },
+    "-LBJb4l1Lbd5Z8BmMJB9" : {
+      "caffeine" : 100,
+      "calories" : 300,
+      "expandInfo" : false,
+      "location" : "Saladelia Cafe at Perkins",
+      "name" : "Large Mocha",
+      "price" : 6,
+      "reviewScore" : 0,
+      "sugar" : 40
+    },
+    "-LBJb9q9sXSiCKFlDwOT" : {
+      "caffeine" : 120,
+      "calories" : 5,
+      "expandInfo" : false,
+      "location" : "Marketplace",
+      "name" : "Marketplace Drip Coffee",
+      "price" : 0.5,
+      "reviewScore" : 0,
+      "sugar" : 5
+    },
+    "-LBJbLz2_5H_pfy2yop9" : {
+      "caffeine" : 130,
+      "calories" : 100,
+      "expandInfo" : false,
+      "location" : "Joe Van Gogh",
+      "name" : "JVG Ristretto",
+      "price" : 7,
+      "reviewScore" : 0,
+      "sugar" : 20
+    },
+    "-LBJbRZJKU2MSLLYySFr" : {
+      "caffeine" : 100,
+      "calories" : 120,
+      "expandInfo" : false,
+      "location" : "Joe Van Gogh",
+      "name" : "JVG Cafe au Lait",
+      "price" : 6,
+      "reviewScore" : 0,
+      "sugar" : 20
+    },
+    "-LBJbWKmdn5LXjOMEYK-" : {
+      "caffeine" : 150,
+      "calories" : 50,
+      "expandInfo" : false,
+      "location" : "Joe Van Gogh",
+      "name" : "Large Cold Brew",
+      "price" : 5,
+      "reviewScore" : 0,
+      "sugar" : 15
+    },
+    "-LBJbiO1p-VNPCRGosef" : {
+      "caffeine" : 100,
+      "calories" : 400,
+      "expandInfo" : false,
+      "location" : "McDonald's",
+      "name" : "McD Large Latte",
+      "price" : 2,
+      "reviewScore" : 0,
+      "sugar" : 40
+    },
+    "-LBJbnShrZ-eSK8HYyd_" : {
+      "caffeine" : 120,
+      "calories" : 350,
+      "expandInfo" : false,
+      "location" : "McDonald's",
+      "name" : "McD Large Mocha",
+      "price" : 2,
+      "reviewScore" : 0,
+      "sugar" : 35
+    },
+    "-LBJbxVJewirHiOj5YYa" : {
+      "caffeine" : 140,
+      "calories" : 120,
+      "expandInfo" : false,
+      "location" : "McDonald's",
+      "name" : "McD Americano",
+      "price" : 2,
+      "reviewScore" : 0,
+      "sugar" : 30
+    },
+    "-LBJc5kXHh-FoJwt4ySr" : {
+      "caffeine" : 100,
+      "calories" : 122,
+      "expandInfo" : false,
+      "location" : "Nasher Museum Cafe",
+      "name" : "Cafe au Lait",
+      "price" : 5,
+      "reviewScore" : 0,
+      "sugar" : 20
+    },
+    "-LBJcDxRfg8J3UYyhg7-" : {
+      "caffeine" : 40,
+      "calories" : 122,
+      "expandInfo" : false,
+      "location" : "Thrive",
+      "name" : "Chai Tea",
+      "price" : 3,
+      "reviewScore" : 0,
+      "sugar" : 23
+    },
+    "-LBJcK_QH5jkCsHmArCE" : {
+      "caffeine" : 75,
+      "calories" : 150,
+      "expandInfo" : false,
+      "location" : "Quenchers",
+      "name" : "Coffee Smoothie",
+      "price" : 3,
+      "reviewScore" : 0,
+      "sugar" : 30
+    },
+    "-LBJcRxTVfu2UsVMG1ed" : {
+      "caffeine" : 140,
+      "calories" : 130,
+      "expandInfo" : false,
+      "location" : "Saladelia Cafe at Sanford",
+      "name" : "Large Americano",
+      "price" : 4,
+      "reviewScore" : 0,
+      "sugar" : 25
+    },
+    "-LBJcWgRIsmYR7gKq-hB" : {
+      "caffeine" : 100,
+      "calories" : 300,
+      "expandInfo" : false,
+      "location" : "Saladelia Cafe at Sanford",
+      "name" : "Large Mocha",
+      "price" : 4,
+      "reviewScore" : 0,
+      "sugar" : 35
+    },
+    "-LBJcd358kCQOHFt55p0" : {
+      "caffeine" : 120,
+      "calories" : 20,
+      "expandInfo" : false,
+      "location" : "Divinity Cafe",
+      "name" : "Drip Coffee",
+      "price" : 2,
+      "reviewScore" : 0,
+      "sugar" : 13
+    },
+    "-LBJck9E8r94ZmpaitMV" : {
+      "caffeine" : 90,
+      "calories" : 300,
+      "expandInfo" : false,
+      "location" : "Cafe De Novo",
+      "name" : "Mocha Frappe",
+      "price" : 5,
+      "reviewScore" : 0,
+      "sugar" : 55
+    }
+  },
+  "favorites" : {
+    "-LBIUMVRCs_4andVJnyw" : {
+      "drinkItem" : "-LBIUEs_tLeUHMHZugzr",
+      "drinkName" : "Large McCafe",
+      "user" : "Robert Ha"
+    },
+    "-LBJ2vudXooMC-YMGjsA" : {
+      "drinkItem" : "-LBJ-OMGW75sLvVCcKHT",
+      "drinkName" : "Large Drip Coffee",
+      "user" : "robert.ha@duke.edu"
+    }
+  },
+  "places" : {
+    "-LBHq7MOkgSmuAcYUd44" : {
+      "location" : "The Brodhead Center",
+      "name" : "Au Bon Pain",
+      "open" : "true",
+      "phone" : "919-660-3932",
+      "position" : {
+        "lat" : 36.001021,
+        "lng" : -78.940637
+      }
+    },
+    "-LBHq7MR8eIV-oioxeYw" : {
+      "location" : "McClendon Tower",
+      "name" : "Bella Union",
+      "open" : "true",
+      "phone" : "",
+      "position" : {
+        "lat" : 35.999201,
+        "lng" : -78.936856
+      }
+    }
+  },
+  "reviews" : {
+    "-LBIKKasfyuHBDMgsFJG" : {
+      "drinkItem" : "-LBHuDob5FIOBSjULow7",
+      "drinkName" : "Coffee",
+      "review" : "Why are people like this",
+      "time" : "Sun Apr 29 2018 17:35:52 GMT-0400 (Eastern Daylight Time)",
+      "user" : "Robert Ha"
+    },
+    "-LBIKRe5kiqwDnuX2zst" : {
+      "drinkItem" : "-LBHuDob5FIOBSjULow7",
+      "drinkName" : "Coffee",
+      "review" : "f",
+      "time" : "Sun Apr 29 2018 17:36:21 GMT-0400 (Eastern Daylight Time)",
+      "user" : "Robert Ha"
+    },
+    "-LBIKRzPuYy6LqkhivcK" : {
+      "drinkItem" : "-LBHuDob5FIOBSjULow7",
+      "drinkName" : "Coffee",
+      "review" : "sdf",
+      "time" : "Sun Apr 29 2018 17:36:22 GMT-0400 (Eastern Daylight Time)",
+      "user" : "Robert Ha"
+    },
+    "-LBIKSLmkq0D1_SVuQ4u" : {
+      "drinkItem" : "-LBHuDob5FIOBSjULow7",
+      "drinkName" : "Coffee",
+      "review" : "sdf",
+      "time" : "Sun Apr 29 2018 17:36:23 GMT-0400 (Eastern Daylight Time)",
+      "user" : "Robert Ha"
+    },
+    "-LBIUKsW7uGF9Y5qmLZ8" : {
+      "drinkItem" : "-LBIUEs_tLeUHMHZugzr",
+      "drinkName" : "Large McCafe",
+      "review" : "I tad bit expensive for how cheap it tastes",
+      "time" : "Sun Apr 29 2018 18:19:33 GMT-0400 (Eastern Daylight Time)",
+      "user" : "Robert Ha"
+    },
+    "-LBIbOFdUMBD4cKfsfna" : {
+      "drinkItem" : "-LBIUEs_tLeUHMHZugzr",
+      "drinkName" : "Large McCafe",
+      "review" : "Why are pies so good",
+      "time" : "Sun Apr 29 2018 18:54:44 GMT-0400 (Eastern Daylight Time)",
+      "user" : "robert.ha@duke.edu"
+    },
+    "-LBIsjDi8Q4IUuYK9edb" : {
+      "drinkItem" : "-LBIrfWiSRAlbqYC2HyG",
+      "drinkName" : "Coffee",
+      "review" : "It was a beautiful thing to eat!",
+      "time" : "Sun Apr 29 2018 20:10:31 GMT-0400 (Eastern Daylight Time)",
+      "user" : "robert.ha@duke.edu"
+    },
+    "-LBIsldLTc5G1-_sQtJ2" : {
+      "drinkItem" : "-LBIrfWiSRAlbqYC2HyG",
+      "drinkName" : "Coffee",
+      "review" : "Could have been better",
+      "time" : "Sun Apr 29 2018 20:10:41 GMT-0400 (Eastern Daylight Time)",
+      "user" : "robert.ha@duke.edu"
+    },
+    "-LBJ2uZdRNYYyj89lHw4" : {
+      "drinkItem" : "-LBJ-OMGW75sLvVCcKHT",
+      "drinkName" : "Large Drip Coffee",
+      "review" : "I am slightly hungry",
+      "time" : "Sun Apr 29 2018 20:59:21 GMT-0400 (Eastern Daylight Time)",
+      "user" : "robert.ha@duke.edu"
+    },
+    "-LBJ9PNtCzxo5GkBfCP3" : {
+      "drinkItem" : "-LBJ-OMGW75sLvVCcKHT",
+      "drinkName" : "Large Drip Coffee",
+      "review" : "Helllo",
+      "time" : "Sun Apr 29 2018 21:27:44 GMT-0400 (Eastern Daylight Time)",
+      "user" : "robert.ha@duke.edu"
+    },
+    "-LBJE-FH_f5Y0PEoO1OX" : {
+      "drinkItem" : "-LBJDvzXYwlNXQ1uOSQ-",
+      "drinkName" : "qweqwe",
+      "review" : "werwerwer",
+      "time" : "Sun Apr 29 2018 21:47:48 GMT-0400 (Eastern Daylight Time)",
+      "user" : "admin@admin.com"
+    }
+  }
+}
